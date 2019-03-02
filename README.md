@@ -23,6 +23,7 @@ Table of Contents | 目录
 - [Navicat](https://navicat.com) - Windows、macOS、Linux；支持 MySQL、MariaDB、SQL Server、SQLite、Oracle 和 PostgreSQL
 - [Redis Desktop Manager](https://redisdesktop.com/) - Windows、macOS、Linux；Redis GUI
 - [Sequel Pro](http://www.sequelpro.com/) - MacOS；支持 MySQL；开源
+- [DataGrip](https://www.jetbrains.com/datagrip/) - Jetbranins 开发的数据库 GUI，Intellij 中集成了此功能
 
 
 # Developer Software | 开发者软件
