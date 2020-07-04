@@ -17,13 +17,13 @@ Table of Contents | 目录
 
 
 # Database GUI | 数据库图形界面客户端
+- [DataGrip](https://www.jetbrains.com/datagrip/) - Jetbranins 开发的数据库 GUI，Intellij 中集成了此功能
 - [HeidiSQL](https://www.heidisql.com/) -  Windows； 支持 MySQL、 MariaDB、MSSQL、PostgreSQL；免费
 - [Keylord](https://protonail.com/) -  Windows、macOS、Linux；支持 Redis、Memcached、Bolt、LevelDB
 - [MySQL Front](http://www.mysqlfront.de/) - Windows；MySQL GUI；免费
 - [Navicat](https://navicat.com) - Windows、macOS、Linux；支持 MySQL、MariaDB、SQL Server、SQLite、Oracle 和 PostgreSQL
 - [Redis Desktop Manager](https://redisdesktop.com/) - Windows、macOS、Linux；Redis GUI
 - [Sequel Pro](http://www.sequelpro.com/) - MacOS；支持 MySQL；开源
-- [DataGrip](https://www.jetbrains.com/datagrip/) - Jetbranins 开发的数据库 GUI，Intellij 中集成了此功能
 
 
 # Developer Software | 开发者软件
@@ -31,9 +31,12 @@ Table of Contents | 目录
 - [Clover](http://cn.ejie.me/) - 像 Chrome 一样使用 Windows 资源管理器
 - [EasyBCD](http://neosmart.net/EasyBCD/) - Windows 磁盘管理/多系统环境管理
 - [Everything](http://www.voidtools.com/) - Windows 文件快捷查找
+- [Gas Mask](http://clockwise.ee/) - Mac host 管理工具
 - [Postman](https://www.getpostman.com/) - API 测试工具
-- [SourceTree](https://www.sourcetreeapp.com/) - Git GUI
+- [SourceTree](https://www.sourcetreeapp.com/) - Git GUI 工具
 - [VirtualBox](https://www.virtualbox.org/) - 虚拟机
+- [Whistle](http://wproxy.org/) - 跨平台 web 调试代理工具，HTTP 代理服务器
+- [YApi](https://hellosean1025.github.io/yapi/) -  开源 API 管理服务
 
 
 # Editor | 编辑器
@@ -48,7 +51,9 @@ Table of Contents | 目录
 
 # Efficiency | 效率
 - [Lastpass](https://www.lastpass.com/) - 密码管理
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 设计、作图软件
 - [Sortime-朝夕](https://www.sortime.com/) - 时间管理
+- [StarUML](http://staruml.io/) - 敏捷建模软件
 - [TickTack - 嘀嗒清单](https://www.dida365.com)
 - [Wunderlist-奇妙清单](https://www.wunderlist.com/)
 
@@ -112,6 +117,7 @@ Table of Contents | 目录
 - [ProcessOn](https://www.processon.com/) - 流程图、思维导图、原型图、UML、网络拓扑图等在线作图
 - [WebGL Samples](http://webglsamples.org/) - WebGL 实例网站
 - [Online Visual Paradigm](https://online.visual-paradigm.com) - 在线制图
+- [百度脑图](https://naotu.baidu.com/) - 在线使用脑图
 
 # Reference & Manual | 参考手册
 
@@ -121,6 +127,7 @@ Table of Contents | 目录
 # Software | 软件
 
 - [Potplayer](http://potplayer.daum.net) - 视频播放器
+- [RIME 中文输入法](https://rime.im/) - 开源中文输入法引擎
 - [SPlayer - 射手播放器](https://splayer.org/)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) - 轻巧的 PDF 阅读器
 
