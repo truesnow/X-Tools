@@ -110,6 +110,7 @@ Table of Contents | 目录
 - [CSS Lint](http://csslint.net/) - CSS 语法在线检测工具
 - [CSS Validation Service | W3C](http://jigsaw.w3.org/css-validator/) - W3C CSS 规则验证器
 - [GitBook](https://www.gitbook.com/) - 使用 Git 对书籍、文档进行版本管理
+- [Gravatar](https://en.gravatar.com/) - WordPress 全球通用头像，根据邮箱获取用户头像
 - [HSL to RGB / RGB to HSL / Hex Colour Converter](http://serennu.com/colour/hsltorgb.php) - HSL/RGB/HEX 颜色转换器
 - [JSONLint](https://jsonlint.com/) - JSON 格式在线校验
 - [Live DOM Viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/) - 在线 HTML DOM 视图
