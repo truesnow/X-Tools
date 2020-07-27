@@ -1,19 +1,20 @@
 Table of Contents - 目录
 =================
-   * [Database GUI - 数据库图形界面客户端](#database-gui--数据库图形界面客户端)
-   * [Developer Software - 开发者软件](#developer-software--开发者软件)
-   * [Editor - 编辑器](#editor--编辑器)
-   * [Efficiency - 效率](#efficiency--效率)
-   * [FTP Software - FTP 软件](#ftp-software--ftp-软件)
-   * [Font - 字体](#font--字体)
-   * [Image Tools - 图片工具](#image-tools--图片工具)
-   * [Javascript Library - JavaScript 库](#javascript-library--javascript-库)
+   * [Database GUI - 数据库图形界面客户端](#database-gui---数据库图形界面客户端)
+   * [Developer Software - 开发者软件](#developer-software---开发者软件)
+   * [Diagram Tool - 作图工具](#diagram-tool---作图工具)
+   * [Editor - 编辑器](#editor---编辑器)
+   * [Efficiency - 效率](#efficiency---效率)
+   * [FTP Software - FTP 软件](#ftp-software---ftp-软件)
+   * [Font - 字体](#font---字体)
+   * [Image Tools - 图片工具](#image-tools---图片工具)
+   * [Javascript Library - JavaScript 库](#javascript-library---javascript-库)
    * [Mac APP](#mac-app)
-   * [Note - 笔记](#note--笔记)
-   * [Online Tools - 在线工具](#online-tools--在线工具)
-   * [Reference &amp; Manual - 参考手册](#reference--manual--参考手册)
-   * [Software - 软件](#software--软件)
-   * [SSH Client - SSH 客户端](#ssh-client--ssh-客户端)
+   * [Note - 笔记](#note---笔记)
+   * [Online Tools - 在线工具](#online-tools---在线工具)
+   * [Reference &amp; Manual - 参考手册](#reference--manual---参考手册)
+   * [Software - 软件](#software---软件)
+   * [SSH Client - SSH 客户端](#ssh-client---ssh-客户端)
 
 
 
@@ -42,6 +43,15 @@ Table of Contents - 目录
 
 
 
+# Diagram Tool - 作图工具
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 设计、作图软件
+- [Online Visual Paradigm](https://online.visual-paradigm.com) - 在线制图
+- [ProcessOn](https://www.processon.com/) - 流程图、思维导图、原型图、UML、网络拓扑图等在线作图
+- [StarUML](http://staruml.io/) - 敏捷建模软件
+- [百度脑图](https://naotu.baidu.com/) - 在线使用脑图
+
+
+
 # Editor - 编辑器
 - [Atom](https://atom.io/)
 - [Notepad++](https://notepad-plus-plus.org/)
@@ -55,12 +65,10 @@ Table of Contents - 目录
 
 # Efficiency - 效率
 - [Lastpass](https://www.lastpass.com/) - 密码管理
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 设计、作图软件
 - [Sortime-朝夕](https://www.sortime.com/) - 时间管理
-- [StarUML](http://staruml.io/) - 敏捷建模软件
 - [TickTack - 嘀嗒清单](https://www.dida365.com)
 - [Wunderlist-奇妙清单](https://www.wunderlist.com/)
-
+- [Trello](https://trello.com/) - 团队协作与任务管理工具
 
 
 # FTP Software - FTP 软件
@@ -84,7 +92,7 @@ Table of Contents - 目录
 
 
 
-# Image Tools - 图片工具
+# Image Tool - 图片工具
 - [easyicon](http://www.easyicon.net/) - 图标下载
 - [Faststone Capture](http://faststone.org/) - 截图录屏软件
 - [iconsdb.com](https://www.iconsdb.com/) - 图标库，可搜索，定制大小和颜色以及格式
@@ -123,13 +131,11 @@ Table of Contents - 目录
 - [GitBook](https://www.gitbook.com/) - 使用 Git 对书籍、文档进行版本管理
 - [Gravatar](https://en.gravatar.com/) - WordPress 全球通用头像，根据邮箱获取用户头像
 - [HSL to RGB / RGB to HSL / Hex Colour Converter](http://serennu.com/colour/hsltorgb.php) - HSL/RGB/HEX 颜色转换器
+- [ipaddress.com](https://www.ipaddress.com/) - 查询域名对应的 IP 地址
 - [JSONLint](https://jsonlint.com/) - JSON 格式在线校验
 - [Live DOM Viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/) - 在线 HTML DOM 视图
 - [Markup Validation Service - W3C](https://validator.w3.org/) - W3C HTML 标记规范在线检测
-- [ProcessOn](https://www.processon.com/) - 流程图、思维导图、原型图、UML、网络拓扑图等在线作图
 - [WebGL Samples](http://webglsamples.org/) - WebGL 实例网站
-- [Online Visual Paradigm](https://online.visual-paradigm.com) - 在线制图
-- [百度脑图](https://naotu.baidu.com/) - 在线使用脑图
 
 
 
