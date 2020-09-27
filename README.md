@@ -37,6 +37,7 @@ Table of Contents - 目录
 - [Gas Mask](http://clockwise.ee/) - Mac host 管理工具
 - [Postman](https://www.getpostman.com/) - API 测试工具
 - [SourceTree](https://www.sourcetreeapp.com/) - Git GUI 工具
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - 全平台 Host 管理工具
 - [VirtualBox](https://www.virtualbox.org/) - 虚拟机
 - [Whistle](http://wproxy.org/) - 跨平台 web 调试代理工具，HTTP 代理服务器
 - [YApi](https://hellosean1025.github.io/yapi/) -  开源 API 管理服务
